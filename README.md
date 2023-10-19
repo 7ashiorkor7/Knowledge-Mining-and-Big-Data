@@ -6,14 +6,12 @@ a data mining tool, Weka.
 
 Topics covered:
 * Introduction to Big Data and Knowledge mining
-* Data Preprocessing 1
-* Data Preprocessing 2E
+* Data Preprocessing
 * Hadoop, Cloud storage, Data Warehousing and Online Analytical Processing
-* Mining Frequent Patterns, Association, and Correlations, Chapters
+* Mining Frequent Patterns, Association, and Correlations
 * Mining Streams, Time-Series, and Sequence data
 * Descriptive and Predictive Modeling Knowledge mining
 * Classification and prediction
 * Data Cube Technology, Data Structures
-* Clustering analysis 1 
-* Clustering analysis 2 E
+* Clustering analysis
 * Outlier Detection 
